@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML Engineer | Machine Learning | Deep Learning | Generative AI | Agentic AI </h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" 
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0YmNhOTZmYWRkbzhmcWo1d2c0NXNkdG11ZjY0cmVxanR3eTdwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAy9NNu16pYYg/giphy.gif" />
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJpeXVoZTk5YWNxeTFiZHcwbWk5ZzZjOHF5OTMyMnRxbGw0OWhkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDnBOLf1rwsIo/giphy.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
