@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! I'm Pradhum Thakur 👋 </h1>
 <h3 align="center">🚀 AI/ML Engineer | Machine Learning | Deep Learning | Generative AI | Agentic AI </h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhwd3lqZ2xpeWsweDlxYXNwMjRxajFhMzR6d3hvNjE1ZnpudHFseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" />
+<img width = "35%" align="right" alt="PIC" height="300px" 
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0YmNhOTZmYWRkbzhmcWo1d2c0NXNkdG11ZjY0cmVxanR3eTdwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAy9NNu16pYYg/giphy.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
